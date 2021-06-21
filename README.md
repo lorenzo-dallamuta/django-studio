@@ -1,0 +1,1 @@
+a flash coding project written in django, my first time subclassing the default user
